@@ -5,3 +5,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    --Violeta: hsl(257, 40%, 49%);
+    --Magenta-suave: hsl(300, 69%, 71%);
+
+    --poppins: 'Poppins', sans-serif; 
+    --open-sans: 'Open Sans', sans-serif;
+}
