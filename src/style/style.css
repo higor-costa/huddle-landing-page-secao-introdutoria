@@ -30,6 +30,12 @@ header {
     margin-bottom: 50px;
 }
 
+.texto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 .texto__titulo {
     font-family: var(--poppins);
     font-size: 2rem;
