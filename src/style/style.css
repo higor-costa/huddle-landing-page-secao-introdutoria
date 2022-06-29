@@ -74,4 +74,5 @@ footer i {
 
 footer i:hover {
     color: var(--Magenta-suave);
+    border-color: var(--Magenta-suave); 
 }
