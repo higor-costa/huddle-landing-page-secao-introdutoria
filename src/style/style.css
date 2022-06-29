@@ -17,3 +17,8 @@
 body {
     background-color: var(--Violeta);
 }
+
+header {
+    background: url(/src/images/bg-mobile.svg) center no-repeat;
+    background-size: cover;
+}
