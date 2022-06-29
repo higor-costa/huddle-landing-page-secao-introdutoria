@@ -62,3 +62,7 @@ header {
     background-color: var(--Magenta-suave);
     color: white;
 }
+
+footer i {
+    border: 1px solid white;
+}
