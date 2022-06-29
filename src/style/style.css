@@ -29,6 +29,7 @@ header {
 }
 
 .texto__titulo {
+    font-family: var(--poppins);
     font-size: 2rem;
 }
 
