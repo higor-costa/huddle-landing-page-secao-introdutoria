@@ -60,4 +60,5 @@ header {
 
 .texto__botao:hover {
     background-color: var(--Magenta-suave);
+    color: white;
 }
