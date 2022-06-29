@@ -76,3 +76,7 @@ footer i:hover {
     color: var(--Magenta-suave);
     border-color: var(--Magenta-suave); 
 }
+
+footer i:nth-child(2) {
+    margin: 0 10px;
+}
