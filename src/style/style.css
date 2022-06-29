@@ -27,3 +27,7 @@ header {
     width: 40%;
     margin-bottom: 50px;
 }
+
+.texto__titulo {
+    font-size: 2rem;
+}
