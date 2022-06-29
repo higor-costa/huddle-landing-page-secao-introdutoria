@@ -71,3 +71,7 @@ footer i {
     font-size: 1.3rem;
     cursor: pointer;
 }
+
+footer i:hover {
+    color: var(--Magenta-suave);
+}
