@@ -44,4 +44,5 @@ header {
 .texto__botao {
     background-color: white;
     color: var(--Violeta);
+    padding: 10px;
 }
