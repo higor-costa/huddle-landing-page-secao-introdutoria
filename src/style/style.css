@@ -57,3 +57,7 @@ header {
     text-decoration: none;
     cursor: pointer;
 }
+
+.texto__botao:hover {
+    background-color: var(--Magenta-suave);
+}
