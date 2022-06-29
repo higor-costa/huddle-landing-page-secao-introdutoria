@@ -31,3 +31,9 @@ header {
 .texto__titulo {
     font-size: 2rem;
 }
+
+.texto__paragrafo {
+    font-family: var(--open-sans);
+    font-weight: 200;
+    font-size: 1.2rem;
+}
