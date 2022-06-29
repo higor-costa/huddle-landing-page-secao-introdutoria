@@ -69,4 +69,5 @@ footer i {
     padding: 8px;
     width: 10%;
     font-size: 1.3rem;
+    cursor: pointer;
 }
