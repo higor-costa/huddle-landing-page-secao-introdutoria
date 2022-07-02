@@ -96,4 +96,8 @@ footer i:nth-child(2) {
     header {
         background-image: none;
     }
+
+    .texto {
+        align-items: flex-start;
+    }
 }
