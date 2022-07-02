@@ -100,4 +100,8 @@ footer i:nth-child(2) {
     .texto {
         align-items: flex-start;
     }
+
+    .texto__titulo, .texto__paragrafo {
+        text-align: left;
+    }
 }
