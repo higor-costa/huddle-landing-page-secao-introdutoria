@@ -87,4 +87,8 @@ footer i:nth-child(2) {
         background: var(--Violeta) url('/src/images/bg-desktop.svg') center no-repeat;
         background-size: cover;
     }
+
+    main {
+        display: flex;
+    }
 }
