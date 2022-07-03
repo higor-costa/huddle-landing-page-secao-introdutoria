@@ -104,4 +104,8 @@ footer i:nth-child(2) {
     .texto__titulo, .texto__paragrafo {
         text-align: left;
     }
+
+    .texto__botao {
+        width: 12rem;
+    }
 }
