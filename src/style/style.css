@@ -39,6 +39,7 @@ header {
 .texto__titulo {
     font-family: var(--poppins);
     font-size: 1.9rem;
+    font-weight: bolder;
 }
 
 .texto__paragrafo {
