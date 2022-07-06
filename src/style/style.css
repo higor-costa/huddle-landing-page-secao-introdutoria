@@ -83,6 +83,10 @@ footer i:nth-child(2) {
     margin: 0 10px;
 }
 
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    
+}
+
 @media screen and (min-width: 769px) {
     body {
         background: var(--Violeta) url('/src/images/bg-desktop.svg') center no-repeat;
