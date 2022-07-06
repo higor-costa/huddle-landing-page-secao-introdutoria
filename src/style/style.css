@@ -84,7 +84,9 @@ footer i:nth-child(2) {
 }
 
 @media screen and (min-width: 481px) {
-    
+    .header__logo {
+        width: 28%;
+    }
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
