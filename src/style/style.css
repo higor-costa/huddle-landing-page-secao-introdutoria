@@ -139,5 +139,7 @@ footer i:nth-child(2) {
 }
 
 @media screen and (min-width: 1279px) {
- 
+    .texto__titulo {
+        font-size: 2rem;
+    }
 }
