@@ -84,7 +84,9 @@ footer i:nth-child(2) {
 }
 
 @media screen and (min-width: 481px) and (max-width: 768px) {
-    
+    .texto__paragrafo {
+        width: 85%;
+    }
 }
 
 @media screen and (min-width: 769px) {
