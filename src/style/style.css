@@ -130,4 +130,9 @@ footer i:nth-child(2) {
     .texto__paragrafo {
         font-size: .8rem;
     }
+
+    .texto__botao {
+        width: 9rem;
+        padding: 8px;
+    }
 }
