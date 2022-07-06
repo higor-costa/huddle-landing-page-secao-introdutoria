@@ -72,6 +72,7 @@ footer i {
     width: 2.5rem;
     font-size: 1.3rem;
     cursor: pointer;
+    transition: .5s;
 }
 
 footer i:hover {
