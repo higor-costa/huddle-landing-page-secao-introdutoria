@@ -83,6 +83,10 @@ footer i:nth-child(2) {
     margin: 0 10px;
 }
 
+@media screen and (min-width: 481px) {
+    
+}
+
 @media screen and (min-width: 481px) and (max-width: 768px) {
     .texto__paragrafo {
         width: 85%;
@@ -125,6 +129,10 @@ footer i:nth-child(2) {
 }
 
 @media screen and (min-width: 769px) and (max-width: 1279px) {
+    .header__logo {
+        width: 9rem;
+    }
+
     .texto__titulo {
         font-size: 1.6rem;
     }
@@ -140,6 +148,10 @@ footer i:nth-child(2) {
 }
 
 @media screen and (min-width: 1279px) {
+    .header__logo {
+        width: 12.8rem;
+    }
+
     .texto__titulo {
         font-size: 2rem;
     }
