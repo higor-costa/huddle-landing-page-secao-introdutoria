@@ -117,4 +117,9 @@ footer i:nth-child(2) {
         margin-bottom: auto;
         padding: 15px;
     }
+
+    footer {
+        display: flex;
+        justify-content: flex-end;
+    }
 }
