@@ -158,6 +158,7 @@ footer i:nth-child(2) {
 
     .texto__titulo {
         font-size: 2rem;
+        line-height: 45px;
     }
 
     .texto__paragrafo {
