@@ -10,7 +10,7 @@
     --Violeta: hsl(257, 40%, 49%);
     --Magenta-suave: hsl(300, 69%, 71%);
 
-    --poppins: 'Poppins', sans-serif; 
+    --poppins: 'Poppins', sans-serif;
     --open-sans: 'Open Sans', sans-serif;
 }
 
@@ -76,7 +76,7 @@ footer i {
 
 footer i:hover {
     color: var(--Magenta-suave);
-    border-color: var(--Magenta-suave); 
+    border-color: var(--Magenta-suave);
 }
 
 footer i:nth-child(2) {
@@ -108,7 +108,8 @@ footer i:nth-child(2) {
         align-items: flex-start;
     }
 
-    .texto__titulo, .texto__paragrafo {
+    .texto__titulo,
+    .texto__paragrafo {
         text-align: left;
     }
 
@@ -135,4 +136,8 @@ footer i:nth-child(2) {
         width: 9rem;
         padding: 8px;
     }
+}
+
+@media screen and (min-width: 1279px) {
+ 
 }
