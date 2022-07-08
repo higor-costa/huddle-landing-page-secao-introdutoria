@@ -57,13 +57,19 @@ header {
     border-radius: 30px;
     width: 15rem;
     text-decoration: none;
-    cursor: pointer;
-    transition: .5s;
+    /* cursor: pointer;
+    transition: .5s; */
 }
 
 .texto__botao:hover {
     background-color: var(--Magenta-suave);
     color: white;
+}
+
+.texto__botao,
+footer .icones i {
+    cursor: pointer;
+    transition: .5s;
 }
 
 footer .icones i {
@@ -72,8 +78,8 @@ footer .icones i {
     padding: 8px;
     width: 2.5rem;
     font-size: 1.3rem;
-    cursor: pointer;
-    transition: .5s;
+    /* cursor: pointer;
+    transition: .5s; */
 }
 
 footer .icones i:hover {
