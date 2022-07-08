@@ -85,6 +85,10 @@ footer i:nth-child(2) {
     margin: 0 10px;
 }
 
+footer .attribution {
+    font-size: .9rem;
+}
+
 @media screen and (min-width: 481px) {
     .header__logo {
         width: 28%;
