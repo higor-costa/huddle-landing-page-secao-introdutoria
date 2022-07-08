@@ -12,9 +12,6 @@ Esta é uma solução para o [desafio da página de destino do Huddle com uma ú
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
   - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
-
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
 
 ## Visão geral
 
@@ -31,7 +28,7 @@ Esta é uma solução para o [desafio da página de destino do Huddle com uma ú
 ### Links
 
 - URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://higor-costa.github.io/huddle-landing-page-secao-introdutoria/)
 
 ## Meu processo
 
@@ -50,15 +47,11 @@ o Bootstrap torna tudo mais prático, facilitando a vida do desenvolvedor. Porta
 
 ### Recursos úteis
 
-- [Documentação](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - A documentação foi fundamental no desenvolvimento do projeto
-- [Curso](https://youtube.com/playlist?list=PLXik_5Br-zO-iwhAe12sirOo_LZ0t-qEm) - Este curso do João Ribeiro também foi muito importante para o meu entedimento sobre a biblioteca.
+- [Documentação](https://getbootstrap.com/docs/5.2/getting-started/introduction/) - A documentação foi fundamental durante o desenvolvimento do projeto
+- [Curso](https://youtube.com/playlist?list=PLXik_5Br-zO-iwhAe12sirOo_LZ0t-qEm) - Este curso do João Ribeiro também foi muito importante para o meu entedimento sobre o framework.
 
 ## Autor
 
 - Linkedin - [Higor Costa](https://www.linkedin.com/in/higor-costa-/)
 - Mentor de frontend - [@higor-costa](https://www.frontendmentor.io/profile/higor-costa)
-- GitHub - [@higor-costa](https://github.com/higor-costa/)
-
-## Agradecimentos
-
-É aqui que você pode dar uma dica de chapéu para quem o ajudou neste projeto. Talvez você tenha trabalhado em equipe ou tenha se inspirado na solução de outra pessoa. Este é o lugar perfeito para dar-lhes algum crédito.
+- GitHub - [@higor-costa](https://github.com/higor-costa)
