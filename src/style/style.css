@@ -121,10 +121,6 @@ footer i:nth-child(2) {
         text-align: left;
     }
 
-    .texto__botao {
-        margin-bottom: auto;
-    }
-
     footer {
         display: flex;
         justify-content: flex-end;
