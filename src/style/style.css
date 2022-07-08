@@ -89,6 +89,10 @@ footer .attribution {
     font-size: .9rem;
 }
 
+footer .attribution a {
+    color: white;
+}
+
 @media screen and (min-width: 481px) {
     .header__logo {
         width: 28%;
