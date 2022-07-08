@@ -94,6 +94,10 @@ footer .attribution a {
     transition: .5s;
 }
 
+footer .attribution a:hover {
+    color: var(--Magenta-suave);
+}
+
 @media screen and (min-width: 481px) {
     .header__logo {
         width: 28%;
