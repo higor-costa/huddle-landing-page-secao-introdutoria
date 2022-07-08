@@ -37,7 +37,7 @@ Esta é uma solução para o [desafio da página de destino do Huddle com uma ú
 - Marcação HTML5 semântica
 - Propriedades personalizadas de CSS
 - Flexbox
-- Boostsrap
+- Bootstrap
 - Fluxo de trabalho mobile-first
 
 ### Desenvolvimento contínuo
