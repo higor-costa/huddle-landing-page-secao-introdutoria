@@ -42,7 +42,7 @@ Esta é uma solução para o [desafio da página de destino do Huddle com uma ú
 
 ### Desenvolvimento contínuo
 
-Escolhi esta página de seção introdutória para colocar em prática os meus conhecimentos de Bootstrap. Apesar de ter tido bastante dificuldade no início, consegui concluir o desafio e estou contente com o resultado final! Conceitos como: Contêineres, espaçamento, alinhamento e responsividade foram usados no desenvolvimento do projeto. Algumas linhas de CSS tornaram-se desnecessárias, pois o 
+Escolhi esta página de seção introdutória para colocar em prática os meus conhecimentos de Bootstrap. Apesar de ter tido bastante dificuldade no início, consegui concluir o desafio e estou contente com o resultado final! Conceitos como: Contêineres, espaçamento, alinhamento e responsividade foram usados no desenvolvimento do projeto. Algumas linhas de CSS tornaram-se desnecessárias, pois
 o Bootstrap torna tudo mais prático, facilitando a vida do desenvolvedor. Portanto, irei dar continuidade nos meus estudos sobre este framework.
 
 ### Recursos úteis
