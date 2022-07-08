@@ -27,8 +27,8 @@ Esta é uma solução para o [desafio da página de destino do Huddle com uma ú
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://higor-costa.github.io/huddle-landing-page-secao-introdutoria/)
+- [Solução - Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-seo-introdutria-5XvGD9dmfy)
+- [Site ao vivo](https://higor-costa.github.io/huddle-landing-page-secao-introdutoria/)
 
 ## Meu processo
 
